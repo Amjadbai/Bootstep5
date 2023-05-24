@@ -1,0 +1,37 @@
+body{
+    font-family: 'open sans', sans-serif;
+}
+.banner-container{
+    background-color:#CACACA ;
+}
+.navbar-container{
+    top: 0;
+    background-color: #262B37;
+    position: sticky;
+    z-index: 2;
+}
+.about-container{
+    background-color: #00BDBD;
+}
+.education-container{
+    background-color: #EEEEEE;
+}
+.bg-redtype{
+    background-color: #f3190d;
+}
+.redtype-color{
+    color:#f11f14;
+}
+.circle{
+    background-color: #f3190d;
+    width: 150px;
+    height:150px;
+    border-radius: 50%;
+    
+}
+.project-container{
+    background-color: #2BB3DD;
+}
+.form-container{
+    background-color: #474D5D;
+}
